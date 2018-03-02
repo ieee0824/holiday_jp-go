@@ -1,3 +1,5 @@
+# [deprecated] I moved to this place. -> https://github.com/holiday-jp/holiday_jp-go
+
 # holiday_jp-go
 
 [![GoDoc](https://godoc.org/github.com/ieee0824/holiday_jp-go?status.svg)](https://godoc.org/github.com/ieee0824/holiday_jp-go)
